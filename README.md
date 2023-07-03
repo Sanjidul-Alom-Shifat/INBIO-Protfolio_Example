@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Project Demo
 
-Project Demo : [INBIO-Protfolio_Example](https://github.com/facebook/create-react-app).
+Project Demo : [INBIO-Protfolio_Example](https://inbioprotfolioexample.netlify.app/).
 
 ## Available Scripts
 
